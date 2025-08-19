@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/251221/static/css/main.62259292.css",
-    "main.js": "/251221/static/js/main.511c4fd9.js",
+    "main.css": "/251221/static/css/main.953ef14e.css",
+    "main.js": "/251221/static/js/main.d41c7a6f.js",
     "static/js/453.06eafee1.chunk.js": "/251221/static/js/453.06eafee1.chunk.js",
     "static/media/bgm.mp3": "/251221/static/media/bgm.9fd0d88bf9a30f8868af.mp3",
     "static/media/image7.png": "/251221/static/media/image7.3627736d09532a6cb151.png",
@@ -18,6 +18,7 @@
     "index.html": "/251221/index.html",
     "static/media/unlock-icon.svg": "/251221/static/media/unlock-icon.88bf18f192c9d6bee37353e1059dd6dc.svg",
     "static/media/lock-icon.svg": "/251221/static/media/lock-icon.d97186ec2081e836e536f0b725731dcf.svg",
+    "static/media/youtube.svg": "/251221/static/media/youtube.b881927ef416770936ac2f00bdfc1835.svg",
     "static/media/heart-icon.svg": "/251221/static/media/heart-icon.462cc2b0a0e895dcd950a814445abc29.svg",
     "static/media/heart-icon1.svg": "/251221/static/media/heart-icon1.6167a70700ebf50b8320ddef1d557897.svg",
     "static/media/heart-icon2.svg": "/251221/static/media/heart-icon2.b2330c72697733e1e06cdb0aa5a1548a.svg",
@@ -27,12 +28,12 @@
     "static/media/audio-off.svg": "/251221/static/media/audio-off.96b21002610ac5a59083a9ca8c4d198d.svg",
     "static/media/car-icon.svg": "/251221/static/media/car-icon.77d557bb93a6c2d3d6a1ae30764b40c3.svg",
     "static/media/bus-icon.svg": "/251221/static/media/bus-icon.5a16a0674d51da7b3aac52196f740cac.svg",
-    "main.62259292.css.map": "/251221/static/css/main.62259292.css.map",
-    "main.511c4fd9.js.map": "/251221/static/js/main.511c4fd9.js.map",
+    "main.953ef14e.css.map": "/251221/static/css/main.953ef14e.css.map",
+    "main.d41c7a6f.js.map": "/251221/static/js/main.d41c7a6f.js.map",
     "453.06eafee1.chunk.js.map": "/251221/static/js/453.06eafee1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62259292.css",
-    "static/js/main.511c4fd9.js"
+    "static/css/main.953ef14e.css",
+    "static/js/main.d41c7a6f.js"
   ]
 }
