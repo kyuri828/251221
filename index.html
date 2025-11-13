@@ -6,20 +6,32 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<base href="%svelte.paths.base%/">
 		
-		<link rel="modulepreload" href="/251221/_app/immutable/entry/start.xfYWqIqY.js">
-		<link rel="modulepreload" href="/251221/_app/immutable/chunks/BYHGTzb1.js">
+		<link rel="modulepreload" href="/251221/_app/immutable/entry/start.CQ4MOH0x.js">
+		<link rel="modulepreload" href="/251221/_app/immutable/chunks/DcBmtGmO.js">
 		<link rel="modulepreload" href="/251221/_app/immutable/chunks/fo9Sd6Zk.js">
-		<link rel="modulepreload" href="/251221/_app/immutable/entry/app.CF_FTHfW.js">
+		<link rel="modulepreload" href="/251221/_app/immutable/entry/app.CnvWjhOV.js">
 		<link rel="modulepreload" href="/251221/_app/immutable/chunks/ClKqh13p.js">
 		<link rel="modulepreload" href="/251221/_app/immutable/chunks/CNbY0lK0.js">
 		<link rel="modulepreload" href="/251221/_app/immutable/chunks/olsaH51J.js">
 		<link rel="modulepreload" href="/251221/_app/immutable/chunks/rntqGwCY.js">
+
+		<style>
+			/* 🧷 드래그/텍스트 선택 방지 */
+			html, body {
+				user-select: none;         /* 텍스트 드래그 방지 */
+				-webkit-user-select: none; /* Safari */
+				-moz-user-select: none;    /* Firefox */
+				-ms-user-select: none;     /* IE/Edge */
+				-webkit-user-drag: none;   /* 이미지 드래그 방지 */
+			}
+		</style>
 	</head>
+
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1mk8sm6 = {
+					__sveltekit_brl3tg = {
 						base: "/251221",
 						assets: "/251221"
 					};
@@ -27,8 +39,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/251221/_app/immutable/entry/start.xfYWqIqY.js"),
-						import("/251221/_app/immutable/entry/app.CF_FTHfW.js")
+						import("/251221/_app/immutable/entry/start.CQ4MOH0x.js"),
+						import("/251221/_app/immutable/entry/app.CnvWjhOV.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
